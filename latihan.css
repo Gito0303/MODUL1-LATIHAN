@@ -1,0 +1,16 @@
+table {
+    border-collapse: separate;
+    width: 50%;
+    background-color: gold;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+    color: black;
+}
+
+th {
+    background-color: gold;
+}
